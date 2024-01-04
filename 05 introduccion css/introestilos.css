@@ -1,0 +1,29 @@
+/*estilos para colores */
+
+.colores{
+    color: blueviolet;
+}
+
+.color-hexadecimal{
+    color:#23CE6B ; 
+}
+
+.color-rgb{
+    color: rgb(red, green, blue);
+}
+
+.color-rgba{
+    color: rgba(red, green, blue, alpha);
+}
+/* fondos */
+.fondo{
+    /*background-color:blue;*/
+    background-image: url(https://venngage-wordpress.s3.amazonaws.com/uploads/2018/11/15-Presentation-Background-Examples1.png);
+    background-position: left bottom;
+}
+
+.fondo-interno{
+    /*background-color:blue;*/
+    background-image: url("img/fondo.jpg");
+    background-position: left bottom;
+}
