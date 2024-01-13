@@ -1,0 +1,33 @@
+body{
+    padding: 15px;
+    margin: 0;
+}
+
+.escenario {
+    margin: 10px 0px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.escenario-1{
+    width: 100%;
+}
+
+.escenario-2{
+    width: 50%;
+}
+
+.px {
+    background-color: yellow;
+    width: 200px;
+}
+
+.porcentaje {
+    background-color: blue;
+    width: 50%;
+}
+
+.view {
+    background-color: red;
+    width: 50vw;
+}
